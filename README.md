@@ -19,4 +19,8 @@ This module covers evaluation and model selection methods that it can be used to
 <img src="./.assets/assignment3.png" width="500">
 
 ## Fourth Week: Unsupervised and Supervised Machine Learning
-This module covers more advanced supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks (with an optional summary on deep learning). It learns about the critical problem of data leakage in machine learning and how to detect and avoid it. This [fnal assignment has a special goal, because it seek to predict how interesting or "engaging" it is for viewers distinct educational videos
+This module covers more advanced supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks (with an optional summary on deep learning). It learns about the critical problem of data leakage in machine learning and how to detect and avoid it. This [final assignment](https://github.com/jpradas1/Applied_Machine-Learning_Python/blob/master/Week_4/Assignment_4.ipynb) has a special goal, because it seek to predict how interesting or "engaging" it is for viewers distinct educational videos. For that sake we fit multiple high performace classifiers model such as Naive Bayes, Random Forest, Gradient Boosted Trees and Neural Network in order to find which model reproduces the best result and predict how engaging in a video. So the first step was analyse data and know which features are the most important, to fit the dataset through distinct model. The principal aim was optimize the 'roc_auc' metric.
+
+<img src="./.assets/assignment4_1.png" width="500">
+<img src="./.assets/assignment4_2.png" width="500">
+<img src="./.assets/assignment4_3.png" width="500">
